@@ -1,0 +1,26 @@
+{
+  "name": "block-ipsum",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "Dennis Timmermann <timmermann.dennis@googlemail.com>"
+  ],
+  "description": "Insert placeholders for simple mockups instead of lorem ipsum",
+  "keywords": [
+    "lorem",
+    "block",
+    "placeholder",
+    "mockup",
+    "wireframe",
+    "simple"
+  ],
+  "license": "MIT",
+  "homepage": "tmrmn.com/p/block-ipsum",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
